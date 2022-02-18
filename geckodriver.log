@@ -1,0 +1,23 @@
+1645073571585	geckodriver	INFO	Listening on 127.0.0.1:63490
+1645073733443	geckodriver	INFO	Listening on 127.0.0.1:63622
+1645073736490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63623" "-no-remote" "-profile" "C:\\Users\\afili\\AppData\\Local\\Temp\\rust_mozprofilek659UN"
+1645073736800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afili\\AppData\\Local\\Temp\\rust_mozprofilek659UN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63623/devtools/browser/e3b0d5a7-d2ed-449b-98f0-cc96caab563c
+1645073739178	Marionette	INFO	Listening on port 63628
+1645073739642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645073740250	Marionette	INFO	Stopped listening on port 63628
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 132))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645073755728	geckodriver	INFO	Listening on 127.0.0.1:63683
+1645073758781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63684" "-no-remote" "-profile" "C:\\Users\\afili\\AppData\\Local\\Temp\\rust_mozprofileQooBY8"
+1645073759079	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afili\\AppData\\Local\\Temp\\rust_mozprofileQooBY8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63684/devtools/browser/89ba4421-41d7-4458-9b51-866ea7741e82
+1645073761406	Marionette	INFO	Listening on port 63689
+1645073761463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+1645073767819	Marionette	INFO	Stopped listening on port 63689
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
